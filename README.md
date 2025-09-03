@@ -2,8 +2,9 @@
 <h3 align="center">A passionate student from Morocco</h3>
 
 <p align="center">
-  <img src="assets/video-vintage.gif" alt="Video Vintage GIF" width="400" />
+  <img src="https://raw.githubusercontent.com/RETCY-unix/RETCY-unix/main/assets/video-vintage.gif" alt="Video Vintage GIF" width="400" />
 </p>
+
 
 
 
