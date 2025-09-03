@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from Morocco</h3>
 
 <p align="center">
-  <img src="assets/mygif.gif" alt="My GIF" width="400" />
+  <img src="assets/video-vintage.gif" alt="Video Vintage GIF" width="400" />
 </p>
 
 
