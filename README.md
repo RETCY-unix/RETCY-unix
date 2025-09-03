@@ -8,8 +8,6 @@
 
 
 
-- 🔭 I’m currently working on **A web scraper**
-
 - 🌱 I’m currently learning **Cyber security, SIGINT, low lvl programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RETCY-unix](https://github.com/RETCY-unix)
