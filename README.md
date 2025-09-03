@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aymane Ghafour</h1>
 <h3 align="center">A passionate student from Morocco</h3>
 
-https://github.com/user-attachments/assets/f66d5409-6615-4640-9dc1-568f096a1ed4
+![Video Vintage GIF](https://github.com/user-attachments/assets/f9e6f69c-2869-412d-91e9-e1fa7328b497)
+
 
 - 🔭 I’m currently working on **A web scraper**
 
