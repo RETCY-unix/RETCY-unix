@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aymane Ghafour</h1>
 <h3 align="center">A passionate student from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retcy-unix" alt="retcy-unix" /></a> </p>
-
 - 🔭 I’m currently working on **A web scraper**
 
 - 🌱 I’m currently learning **Cyber security, SIGINT, low lvl programming**
