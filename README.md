@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aymane Ghafour</h1>
 <h3 align="center">A passionate student from Morocco</h3>
 
+https://github.com/user-attachments/assets/f66d5409-6615-4640-9dc1-568f096a1ed4
+
 - 🔭 I’m currently working on **A web scraper**
 
 - 🌱 I’m currently learning **Cyber security, SIGINT, low lvl programming**
